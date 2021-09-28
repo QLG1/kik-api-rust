@@ -1,0 +1,11 @@
+[package]
+name = "kik-api-rust"
+version = "0.1.0"
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rustls-connector = "0.13.1"
+html_parser = "0.6.2"
+serde_json = "1.0.68"
